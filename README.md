@@ -6,6 +6,4 @@ Sometimes, iOS Safari won't correctly redraw elements after an `orientationchang
 $("css selector").redraw();
 ```
 
-Currently hard-coded as an AMD module. Bower and Browseriy friendly verions soon to come. Or, if you've got the time, why not make a pull request?
-
-# MIT License
+## MIT License
